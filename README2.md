@@ -15,6 +15,6 @@ Then go into bot.js and put at the top "require('dotenv').config();".
 
 ![image](https://github.com/ejgamer19/Discord-Bot-Setup/assets/152716646/b66a3362-4d2d-4895-9123-544eca223b0e)
 
-Now at the bottem of the code replace 'Your bot token' with "procces.env.token" withought quotations. Its should work exactly the same as with the .env file.
+Now at the bottem of the code replace 'Your bot token' with "procces.env.token" withought quotations. Its should work exactly the same with the .env file.
 
 
