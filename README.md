@@ -45,7 +45,8 @@ Inside the src folder create a file called "bot.js".
 
 4 Step (Code):
 Inside the bot.js file copy the code from github it should be named "bot.js".
-![image](https://github.com/ejgamer19/Discord-Bot-Setup/assets/152716646/158154b5-461a-4b7d-871a-e15bfa2e5e07)
+![image](https://github.com/ejgamer19/Discord-Bot-Setup/assets/152716646/860d85f2-cf77-48b5-bb24-e83d1addb7c6)
+
 
 
 
