@@ -3,11 +3,11 @@ These scripts will be vital for helping you setup your own Discord Bot!
 
 First Step:
 
-Make sure you have Node.js Installed globally on your PC and Visual Studio Code:
+Make sure you have Node.js Installed globally:
 ![image](https://github.com/ejgamer19/Discord-Bot-Setup/assets/152716646/c9e70140-2de2-4d15-a6f8-7dcae7b973d4)
 
 
-
+Make sure you have Visual Studio Code Installed:
 
 ![image](https://github.com/ejgamer19/Discord-Bot-Setup/assets/152716646/4630df96-a6a7-4bcb-a185-f5bc8a8faa8d)
 
