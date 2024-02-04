@@ -38,6 +38,7 @@ Now Create a folder called "src":
 
 
 Inside the src folder create a file called "bot.js".
+
 ![image](https://github.com/ejgamer19/Discord-Bot-Setup/assets/152716646/31744305-65d8-4da3-b2bb-d732296cec5f)
 
 
