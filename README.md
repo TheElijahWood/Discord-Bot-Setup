@@ -32,6 +32,7 @@ Go into package.json file, and change line 9 from "index.js" to "src/bot.js".
 
 
 Now Create a folder called "src":
+
 ![image](https://github.com/ejgamer19/Discord-Bot-Setup/assets/152716646/953218fc-dadf-4731-9fb9-ef8c4b24e9be)
 
 
