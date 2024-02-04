@@ -49,7 +49,7 @@ Inside the bot.js file copy the code from github it should be named "bot.js".
 
 
 
-You do not need require('dotenv').config(); for it to work so get rid of it and get rid of procces.env.token and replace it with your bots token.
+Now get your discord bots token by going to discord developer portal, got to bot then reset token. Once you have the token got to the code and look at the last line of the script then replace 'token' with your bots token that you copied. Once you have done that go to terminal and do "node src/bot.js" check your discord server and you bot will be online!
 
 
 
