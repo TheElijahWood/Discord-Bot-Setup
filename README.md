@@ -26,7 +26,7 @@ Next do "npm i discord.js" inside the Visual Studio Code Terminal:
 We have now finished doing terminal stuff.
 Third Step:
 
-Go into package.json file, and change line 9 from "index.js" to "src/bot.js".
+Go into package.json file, and change line 5 from "index.js" to "src/bot.js".
 ![image](https://github.com/ejgamer19/Discord-Bot-Setup/assets/152716646/a5e87fd1-51b0-4960-a8c4-2c2bc465e82e)
 
 
